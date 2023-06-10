@@ -6,7 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@xstate/react": "^0.8.1",
-    "gatsby": "^2.18.18",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.37",
     "gatsby-plugin-manifest": "^2.2.34",
     "gatsby-plugin-offline": "^3.0.30",
